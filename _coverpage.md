@@ -6,17 +6,17 @@
 
 
 <!---- Portada ----> 
-<img align="center" src="WalkingGirl_front01.png" width="300" height=auto alt="Logotipo"/>
+<img width="1152" height="648" alt="portada" src="portada.jpg" />
 
 
 
 
 
-### Proyecto realizado por:
+### Proyecto realizado por: Lidia Urbano Sánchez
 
 ### Enlace a Itch.io: ____________
 
-#### Facultad de Bellas Artes. Universidad de Granada, 202X
+#### Facultad de Bellas Artes. Universidad de Granada, 2026
 
 
 
