@@ -68,20 +68,21 @@ Para que puedas navegar facilmente, propongo estas indicaciones de navegación p
 
 Tras una larga investigación, topé con un juego online de Monster High al que hemos jugado toda una generación de fans. El juego "Froggie Dash" se centra en Lagoona Blue, una alumna excelente de Monster High con debilidad por salvar animales. En una clase de biología decide salvar a las ranas que estaban allí, pero hay un problema: sólo pueden escapar por el baño. De este modo, la misión del usuario es ayudar a Lagoona a llevar a todas las ranas a su salvación. Este juego sirvió de inspiración para la misión de mi proyecto.
 
-- Froggie Dash (https://www.numuki.com/game/mh-froggie-dash/) 
+- Froggie Dash (https://www.numuki.com/game/mh-froggie-dash/)
+  
   ![Froggie_Dash_-_main.webp](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/Froggie_Dash_-_main.webp)
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque mezcla el atractivo de lo oculto y el misterio con la diversión de sentirnos parte del juego al ayudar a la protagonista. Nos transporta directamente al siglo XIX y nos sitúa ante una familia poderosa que se mantiene unida por su anticuario embrujado que transpasa generaciones. A pesar de ser de temática sobrenatural, se nos presenta a modo de aventura con sus personajes entrañables de diseños simpáticos, completamente alejados de algo que puede generar miedo. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Este proyecto está orientado a un público infantil o juvenil con interés por el misterio y lo sobrenatural, pero también a aquellos que disfrutan de un juego divertido sin sustos, ya que a pesar de tratar dicha temática, sus personajes no buscan dar miedo: son adorables. 
 
 
 
