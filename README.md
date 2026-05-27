@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Juego de aventura sobrenatural
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-![ADELA Y FANTASMAS REDUCIDA 2.png]
+![ADELA Y FANTASMAS REDUCIDA 2.png](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/ADELA%20Y%20FANTASMAS%20REDUCIDA%202.png)
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
