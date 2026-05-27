@@ -134,7 +134,7 @@ Estoy muy orgullosa del resultado del videojuego ya que era algo que para mi era
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  Pixabay
+* Musica:  Pixabay.
   -Bydmitritaras
   -Sigmamusicart
   -Tunetank
