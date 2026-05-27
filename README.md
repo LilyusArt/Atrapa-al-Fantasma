@@ -15,7 +15,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Autor:**  Lidia Urbano Sánchez
 
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto cuenta la historia de Adela, la dueña de un antiguo anticuario muy particular: está embrujado. Un día, los fantasmas escapan de sus objetos y siembran el caos en la tienda, por lo que nuestra protagonista necesitará ayuda para devolverlos a sus objetos contenedores antes de que pongan la ciudad patas arriba. 
 
 **Estilo/género:**  Juego de aventura sobrenatural
 
@@ -31,9 +31,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 27/05/2026
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
 - Github: LilyusArt
 
