@@ -69,7 +69,7 @@ Para que puedas navegar facilmente, propongo estas indicaciones de navegación p
 Tras una larga investigación, topé con un juego online de Monster High al que hemos jugado toda una generación de fans. El juego "Froggie Dash" se centra en Lagoona Blue, una alumna excelente de Monster High con debilidad por salvar animales. En una clase de biología decide salvar a las ranas que estaban allí, pero hay un problema: sólo pueden escapar por el baño. De este modo, la misión del usuario es ayudar a Lagoona a llevar a todas las ranas a su salvación. Este juego sirvió de inspiración para la misión de mi proyecto.
 
 - Froggie Dash (https://www.numuki.com/game/mh-froggie-dash/) 
-- 
+  ![Froggie_Dash_-_main.webp](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/Froggie_Dash_-_main.webp)
 
 
 
