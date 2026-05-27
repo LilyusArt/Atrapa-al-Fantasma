@@ -50,7 +50,9 @@ Si decides poner a prueba tu memoria y comprobar si serías capaz de identificar
 Si te has quedado con ganas de saber más sobre Adela y su querido anticuario embrujado puedes ver un pequeño video de nuestra protagonista que te conducirá a la breve historia de la familia Sinclair y te explicará tu misión. 
 ![storyboard HISTORIA.jpg](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/storyboard%20HISTORIA.jpg)
 
+
 ### 2.2. Esquema de navegación 
+
 
 Para que puedas navegar facilmente, propongo estas indicaciones de navegación por el juego:
 ![RECORRIDO JUEGO.jpg](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/RECORRIDO%20JUEGO.jpg)
@@ -58,15 +60,15 @@ Para que puedas navegar facilmente, propongo estas indicaciones de navegación p
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+
 
 
 
 ## Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+Tras una larga investigación, topé con un juego online de Monster High al que hemos jugado toda una generación de fans. El juego "Froggie Dash" se centra en Lagoona Blue, una alumna excelente de Monster High con debilidad por salvar animales. En una clase de biología decide salvar a las ranas que estaban allí, pero hay un problema: sólo pueden escapar por el baño. De este modo, la misión del usuario es ayudar a Lagoona a llevar a todas las ranas a su salvación. Este juego sirvió de inspiración para la misión de mi proyecto.
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
+- Froggie Dash [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
 - 
 
 
