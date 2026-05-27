@@ -26,7 +26,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:** Google Chrome, ordenador y móviles android.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 304MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -45,19 +45,15 @@ En la pantalla de menú del proyecto encontramos numerosos botones que ofrecen d
 ![storyboard 1.jpg](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/storyboard%201.jpg)
 En este proyecto lo fundamental es atrapar a los fantasmas que han escapado, por lo que al pulsar el botón PLAY comenzamos esta misión. Aquí te enfrentarás a una gran cantidad de obstáculos que buscarán derrotarte mientras cruzas de un extremo de la sala al otro...¡donde se encuentran las metas!. Consigue llegar a las cinco metas y habrás devuelto a todos los fantasmas a sus respectivos objetos contenedores. Si los obstáculos te derrotan, tienes la opción de abandonar el juego y volver al menú para probar tu memoria en el mini juego o simplemente disfrutar de las imágenes que ilustran el juego en la galería. 
 ![storyboard OPCIONES 2.jpg](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/storyboard%20OPCIONES%202.jpg)
-
-
+Si decides poner a prueba tu memoria y comprobar si serías capaz de identificar un objeto poseído por un espíritu de uno normal, puedes jugar al mini juego y encontrar los pares de objetos. ¡Consigue los cinco!
+![storyboard MINI JUEGO.jpg](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/storyboard%20MINI%20JUEGO.jpg)
+Si te has quedado con ganas de saber más sobre Adela y su querido anticuario embrujado puedes ver un pequeño video de nuestra protagonista que te conducirá a la breve historia de la familia Sinclair y te explicará tu misión. 
+![storyboard HISTORIA.jpg](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/storyboard%20HISTORIA.jpg)
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+Para que puedas navegar facilmente, propongo estas indicaciones de navegación por el juego:
+![RECORRIDO JUEGO.jpg](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/RECORRIDO%20JUEGO.jpg)
 
 
 # 3. Metodología
