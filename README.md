@@ -90,25 +90,38 @@ Este  proyecto es interesante porque mezcla el atractivo de lo oculto y el miste
 
 ## Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+Todas las ilustraciones y elementos del juego han sido dibujadas en Adobe Photoshop. 
+- Juego.
+La propuesta era crear un juego en el que el usuario debe esquivar obstáculos usando las flechas del teclado. El objetivo es llegar a cada una de las cinco metas sin recibir ningún choque. Para ello, diseñé una habitación en las que metería los CollisionShape2D y las diversas animaciones de cada objeto. Si el usuario consigue alcanzar una meta, esta desaparece de la estantería para indicar que ha sido obtenida, el personaje vuelve a la casilla de salida y se añade un punto al marcador. Se repite la acción hasta que se consiguen las cinco metas. 
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
+- Video
+El proyecto incluye un video introductorio al entorno en el que se desarrolla el juego, mostrándose tanto el exterior del anticuario como los pasillos que lo recorren. Lo desarrollé en Adobe Animate, durante aproximadamente 15 segundos, con la intención de poner al usuario en contexto antes o después de empezar a jugar. Además, hay una pausa continuada al final del vídeo que permite que el usuario elija si quiere conocer la historia o no antes de pulsar al botón. 
+- Mini juego
+El diseño del mini juego debía ser algo relacionado con la misión principal, por lo que decidí seguir profundizando en la diferenciación de objetos con y sin fantasma. De este modo, propongo al usuario poner a prueba su capacidad de rconocimiento y mostrarle los objetos en su estado normal, o sin poseer, para darle una visión completa de éstos a la vez que se divierte. 
+- Instrucciones y ayuda al usuario
+Para orientar al usuario decidí añadir varias indicaciones en puntos concretos del juego, sin ser demasiados para molestar, como el inicio del juego al pulsar PLAY y en el apartado de conocer la historia de Adela dentro del vídeo. En ambos, doy una breve explicación de la finalidad del juego para que el usuario tenga claro qué está ocurriendo para poder actuar.
 - Menús y elementos de navegación (botones)
-- etc.
+El menú fue diseñado con la intención de ser lo más fácil de entender posible, haciéndo homenaje a juegos online básicos y nostálgicos de los 00s. Éste contiene seis botones:
+1. Play.
+2. Galería.
+3. Historia.
+4. Créditos.
+5. Mini Juego.
+6. Activación de música.
+- Galería
+En la galería muestro tanto las imágenes que son parte del juego como aquellas que he realizado a modo de diseño de personajes y escenario, ofreciendo al usuario la mayor información posible.
 
 
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Considero que el movimiento del personaje Fantasma del juego no tiene un rango de movimiento óptimo para dificultar la obtención de metas, llegando de un extremo a otro. Éste se desliza como si flotara, lo cuál me parecía lógico, pero eso hace que no haya un corte en el movimiento que impida que el usuario llegue rapidamente a la meta. 
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Estoy muy orgullosa del resultado del videojuego ya que era algo que para mi era casi imposible de realizar con ningún conocimiento de programación previo ni ninguna toma de contacto con la animación e incluso muy poco dibujo digital. Considero que a pesar de haber numerosas cosas por mejorar y cambiar, como un movimiento más fluído de los elementos y un mayor dinamismo y dificultad en el juego, he conseguido realizar lo que me propuse. Sin embargo, en un futuro me gustaría aplicar estos nuevos conocimientos y atreverme a hacer un proyecto con mayor nivel de dificultad y más profundidad en la historia, tratando así de continuar mi aprendizaje. 
 
 
 
@@ -124,17 +137,21 @@ Este  proyecto es interesante porque mezcla el atractivo de lo oculto y el miste
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica:  Pixabay
+  -Bydmitritaras
+  -Sigmamusicart
+  -Tunetank
+  -Universfield
+* Imágenes:  LilyusArt
+* Tipografía: Vampire Zone
 
 **Herramientas utilizadas**
 
-- Godot Engine 4.x
-- 
+- Godot Engine 4.6
+- Adobe Photoshop 2020
+- Adobe Animate 2020
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-https://creativecommons.org/licenses/?lang=es
+
 
 * logos en https://creativecommons.org/mission/downloads/
   
