@@ -14,7 +14,7 @@
 
 ### Proyecto realizado por: Lidia Urbano Sánchez
 
-### Enlace a Itch.io: ____________
+### Enlace a Itch.io: https://lilyus-art.itch.io/atrapaalfantasma
 
 #### Facultad de Bellas Artes. Universidad de Granada, 2026
 
