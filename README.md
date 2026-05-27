@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Atrapa al Fantasma 
 
-**Web:**   (url github.io)
+**Web:**  (https://lilyusart.github.io/Atrapa-al-Fantasma/#/)
 
 **Autor:**  Lidia Urbano Sánchez
 
@@ -24,9 +24,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ![ADELA Y FANTASMAS REDUCIDA 2.png](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/ADELA%20Y%20FANTASMAS%20REDUCIDA%202.png)
 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** Google Chrome, ordenador y móviles android.
 
 **Tamaño proyecto:** 14MB 
 
@@ -38,8 +36,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 - Github: LilyusArt
 
-
-![girl](WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
