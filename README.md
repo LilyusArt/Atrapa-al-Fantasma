@@ -41,9 +41,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En la pantalla de menú del proyecto encontramos numerosos botones que ofrecen diversas opciones, desde un mini juego a información adicional sobre la historia.
+![storyboard 1.jpg](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/storyboard%201.jpg)
+En este proyecto lo fundamental es atrapar a los fantasmas que han escapado, por lo que al pulsar el botón PLAY comenzamos esta misión. Aquí te enfrentarás a una gran cantidad de obstáculos que buscarán derrotarte mientras cruzas de un extremo de la sala al otro...¡donde se encuentran las metas!. Consigue llegar a las cinco metas y habrás devuelto a todos los fantasmas a sus respectivos objetos contenedores. Si los obstáculos te derrotan, tienes la opción de abandonar el juego y volver al menú para probar tu memoria en el mini juego o simplemente disfrutar de las imágenes que ilustran el juego en la galería. 
+![storyboard OPCIONES 2.jpg](https://github.com/LilyusArt/Atrapa-al-Fantasma/blob/master/storyboard%20OPCIONES%202.jpg)
 
 
 
