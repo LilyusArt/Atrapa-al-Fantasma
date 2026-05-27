@@ -91,16 +91,16 @@ Este  proyecto es interesante porque mezcla el atractivo de lo oculto y el miste
 ## Etapa 2: Desarrollo / actividades realizadas
 
 Todas las ilustraciones y elementos del juego han sido dibujadas en Adobe Photoshop. 
-- Juego.
+- Juego:
 La propuesta era crear un juego en el que el usuario debe esquivar obstáculos usando las flechas del teclado. El objetivo es llegar a cada una de las cinco metas sin recibir ningún choque. Para ello, diseñé una habitación en las que metería los CollisionShape2D y las diversas animaciones de cada objeto. Si el usuario consigue alcanzar una meta, esta desaparece de la estantería para indicar que ha sido obtenida, el personaje vuelve a la casilla de salida y se añade un punto al marcador. Se repite la acción hasta que se consiguen las cinco metas. 
 
-- Video
+- Video:
 El proyecto incluye un video introductorio al entorno en el que se desarrolla el juego, mostrándose tanto el exterior del anticuario como los pasillos que lo recorren. Lo desarrollé en Adobe Animate, durante aproximadamente 15 segundos, con la intención de poner al usuario en contexto antes o después de empezar a jugar. Además, hay una pausa continuada al final del vídeo que permite que el usuario elija si quiere conocer la historia o no antes de pulsar al botón. 
-- Mini juego
+- Mini juego:
 El diseño del mini juego debía ser algo relacionado con la misión principal, por lo que decidí seguir profundizando en la diferenciación de objetos con y sin fantasma. De este modo, propongo al usuario poner a prueba su capacidad de rconocimiento y mostrarle los objetos en su estado normal, o sin poseer, para darle una visión completa de éstos a la vez que se divierte. 
-- Instrucciones y ayuda al usuario
+- Instrucciones y ayuda al usuario:
 Para orientar al usuario decidí añadir varias indicaciones en puntos concretos del juego, sin ser demasiados para molestar, como el inicio del juego al pulsar PLAY y en el apartado de conocer la historia de Adela dentro del vídeo. En ambos, doy una breve explicación de la finalidad del juego para que el usuario tenga claro qué está ocurriendo para poder actuar.
-- Menús y elementos de navegación (botones)
+- Menús y elementos de navegación :
 El menú fue diseñado con la intención de ser lo más fácil de entender posible, haciéndo homenaje a juegos online básicos y nostálgicos de los 00s. Éste contiene seis botones:
 1. Play.
 2. Galería.
@@ -108,7 +108,7 @@ El menú fue diseñado con la intención de ser lo más fácil de entender posib
 4. Créditos.
 5. Mini Juego.
 6. Activación de música.
-- Galería
+- Galería:
 En la galería muestro tanto las imágenes que son parte del juego como aquellas que he realizado a modo de diseño de personajes y escenario, ofreciendo al usuario la mayor información posible.
 
 
