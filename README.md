@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Atrapa al Fantasma 
 
-**Web:**  (https://lilyusart.github.io/Atrapa-al-Fantasma/#/)
+**Web:**  (https://lilyus-art.itch.io/atrapaalfantasma)
 
 **Autor:**  Lidia Urbano Sánchez
 
